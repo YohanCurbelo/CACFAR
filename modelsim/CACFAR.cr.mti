@@ -1,0 +1,26 @@
+C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package std_logic_textio
+-- Compiling entity CACFAR
+-- Compiling architecture Behavioral of CACFAR
+** Warning: C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR.vhd(70): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Compiling entity CACFAR_tb
+-- Compiling architecture Behavioral of CACFAR_tb
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading entity CACFAR
+** Warning: C:/MyDesigns/Freelance/CACFAR/modelsim/CACFAR_tb.vhd(58): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}}
